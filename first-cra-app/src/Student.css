@@ -1,0 +1,18 @@
+.student-card {
+  width: 48%;
+  padding: 10px;
+}
+
+.student-card img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.green-card {
+  border: 2px solid green;
+}
+
+.red-card {
+  border: 2px solid red;
+}

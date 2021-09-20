@@ -1,0 +1,14 @@
+h1 {
+  font-size: 64px;
+  line-height: 72px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+  min-height: 100vh;
+  background-color: aqua;
+}
+
+.green-text {
+  color: green;
+}
